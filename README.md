@@ -12,3 +12,10 @@ Contents
 - /english_sweate_report.pdf — Full hypothesis paper (CC BY 4.0)
 - README.md — Repository overview
 - LICENSE — Creative Commons Attribution 4.0 International
+
+Citation (placeholder format)
+Warren, J. (2026). The English Sweating Sickness as a Commodity‑Linked Toxicological Event (1485–1551). GitHub Repository. https://github.com/jmwarrenfw/englishsweate
+
+Purpose
+This repository provides a stable, openly licensed reference for academic review and potential collaboration, including archaeotoxicological field validation by institutions specializing in historical biomolecular analysis.
+
