@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "The English Sweating Sickness: A Mechanistic Hypothesis"
+message: "If you use this work, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: Warren
+    given-names: Jeremy M.
+abstract: >
+  A mechanistic, interdisciplinary hypothesis for the cause of the English
+  Sweating Sickness (1485–1551), integrating historical linguistics, toxicology,
+  supply-chain analysis, and primary-source symptom reconstruction.
+license: CC-BY-4.0
+repository-code: "https://github.com/jmwarrenfw/englishsweate"
+version: "1.0.0"
+date-released: "2026-04-17"
+keywords:
+  - English Sweating Sickness
+  - historical epidemiology
+  - toxicology
+  - archaeotoxicology
+  - medical history
+  - interdisciplinary research
